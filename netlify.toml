@@ -1,3 +1,0 @@
-[build]
-  publish = "build"  # This should point to the directory containing the built files
-  command = "npm run build"  # Make sure this is your build script
