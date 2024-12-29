@@ -24,10 +24,10 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
             <ResumeDownload />
             <br />
             <div className="text-block">
-                <h2>henryheffernan.com</h2>
+                <h2>davoodnoori.com</h2>
                 <br />
                 <p>
-                    henryheffernan.com is my portfolio website, and also the
+                    davoodnoori.com is my portfolio website, and also the
                     website you are on right now. This project was an absolute
                     joy to make and challenged me both technically and
                     creatively. Early in 2022, I knew I wanted to make an
@@ -73,10 +73,10 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href="https://henryheffernan.com"
+                            href="https://davoodnoori.com"
                         >
                             <p>
-                                <b>[3D Site]</b> - henryheffernan.com
+                                <b>[3D Site]</b> - davoodnoori.com
                             </p>
                         </a>
                     </li>
@@ -95,7 +95,7 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href="https://github.com/henryjeff/portfolio-website"
+                            href="https://github.com/Fleeaz/portfolio-website"
                         >
                             <p>
                                 <b>[GitHub]</b> - 3D Site Repository
@@ -106,7 +106,7 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href="https://github.com/henryjeff/portfolio-inner-site"
+                            href="https://github.com/Fleeaz/portfolio-inner-site"
                         >
                             <p>
                                 <b>[GitHub]</b> - OS Site Repository
@@ -122,9 +122,9 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                     <a
                         rel="noreferrer"
                         target="_blank"
-                        href="https://twitter.com/henryheffernan"
+                        href="https://x.com/ImpactError"
                     >
-                        @henryheffernan
+                        @ImpactError
                     </a>
                 </p>
             </div>
