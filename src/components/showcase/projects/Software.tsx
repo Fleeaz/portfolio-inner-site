@@ -27,15 +27,14 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                 <h2>davoodnoori.com</h2>
                 <br />
                 <p>
-                    davoodnoori.com is my portfolio website, and also the
-                    website you are on right now. This project was an absolute
-                    joy to make and challenged me both technically and
-                    creatively. Early in 2022, I knew I wanted to make an
-                    interactive portfolio to aid my job search. I eventually got
-                    the idea for this site around early February and began
-                    development early March. I've been developing it alongside
-                    my last semester at school and if you are reading this, it's
-                    pretty much done!
+                    Davoodnoori.com is my personal portfolio website, as well as
+                    the website you are currently browsing. Creating this project 
+                    has been truly rewarding experience, pushing me to grow both technically 
+                    and creatively. At the beginning of 2024, I decided to desgin an 
+                    interactive portfolio to showcase my skills and aid in my job search. 
+                    The idea for this site came to me in late January, and i began development 
+                    in early February. I've been working on it diligently alongside other commitments, 
+                    and if you're reading this, the site is now complete and ready for the world to see!
                 </p>
                 <br />
                 <div className="captioned-image">
@@ -57,7 +56,7 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                     <a
                         rel="noreferrer"
                         target="_blank"
-                        href="https://henryheffernan.vercel.app/"
+                        href="https://os.davoodnoori.com/"
                     >
                         here
                     </a>{' '}
@@ -84,7 +83,7 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href="https://henryheffernan.vercel.app/"
+                            href="https://os.davoodnoori.com/"
                         >
                             <p>
                                 <b>[OS Site]</b> - henryheffernan.vercel.app
@@ -132,13 +131,13 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                 <h2>Guntattchment Saga The Sequel</h2>
                 <br />
                 <p>
-                    Guntattchment Saga or GSTS is a game I made with my good
-                    friend Scott Bass back in 2019. The game is a wave based top
-                    down shooter where you progress by building the most
-                    outrageous of weapons through attaching as many attachments
-                    on your weapon as you can. The game ceased development in
-                    2019 because we unfortunately both had packed school
-                    schedules and were unable to find the time to work on it.
+                    Guntattchment Saga or GSTS is a game I made with my good friend 
+                    Johan van Dijk back in 2018. The game is a wave-based top-down 
+                    shooter where you progress by building the most outrageous of 
+                    weapons through attaching as many attachments on your weapon as you can. 
+                    The game ceased development in 2018 because we unfortunately both had 
+                    packed school schedules and were unable to find the time to work on it.
+                    
                 </p>
                 <br />
                 <div className="captioned-image">
